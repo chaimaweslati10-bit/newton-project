@@ -1,4 +1,4 @@
-Structure type d'un bon README
+
 
 Projet Méthode de Newton | 2025-2026
 
