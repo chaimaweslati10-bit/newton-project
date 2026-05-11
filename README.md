@@ -2,8 +2,6 @@
 
 Projet Méthode de Newton | 2025-2026
 
-Un bon fichier README devrait contenir ces sections :
-
 ---
 
 ## 1. Titre & Description
